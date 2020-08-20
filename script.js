@@ -1,6 +1,5 @@
-const imageContainer = document.getElementById('image-container');
-const loader = document.getElementById('loader');
 
+<<<<<<< HEAD
 let ready = false;
 let imagesLoaded = 0;
 let totalImages = 0;
@@ -87,3 +86,5 @@ window.addEventListener('scroll', ()=> {
 
 //On Load
 getPhotos();
+=======
+>>>>>>> 03a760813d3a8401f7bf10b09144b7e467045823
