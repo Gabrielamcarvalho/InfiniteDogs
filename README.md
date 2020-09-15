@@ -9,7 +9,8 @@ For all the dog lovers like me, this Infinite Scrolling webpage is full of pictu
 ## Online Tools 
 
 
-* Pictures: [Unsplash](https://unsplash.com/developers)
+* Pictures API: [Unsplash](https://unsplash.com/developers)
 
+*This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 1 of 20.*
 
 
